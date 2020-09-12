@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="johnson-zac-assn3.zip">
+    <output-path>$PROJECT_DIR$/out/artifacts/johnson_zac_assn3_zip</output-path>
+    <root id="root">
+      <element id="directory" name="src">
+        <element id="dir-copy" path="$PROJECT_DIR$/src" />
+      </element>
+      <element id="directory" name="data">
+        <element id="dir-copy" path="$PROJECT_DIR$/data" />
+      </element>
+      <element id="directory" name="out">
+        <element id="dir-copy" path="$PROJECT_DIR$/out" />
+      </element>
+    </root>
+  </artifact>
+</component>

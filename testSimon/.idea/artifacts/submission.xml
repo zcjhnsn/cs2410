@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="submission">
+    <output-path>$PROJECT_DIR$/out/artifacts/submission</output-path>
+    <root id="root">
+      <element id="archive" name="Johnson-Zac-Assn8.zip">
+        <element id="directory" name="src">
+          <element id="dir-copy" path="$PROJECT_DIR$/../Johnson-Zac-Assn7/src" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

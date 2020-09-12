@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="Assn-Submisison">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assn_Submisison</output-path>
+    <root id="root">
+      <element id="archive" name="Johnson-Zac-Assn5.zip">
+        <element id="directory" name="src">
+          <element id="dir-copy" path="$PROJECT_DIR$/src" />
+        </element>
+        <element id="directory" name="image">
+          <element id="dir-copy" path="$PROJECT_DIR$/image" />
+        </element>
+        <element id="directory" name="docs">
+          <element id="dir-copy" path="$PROJECT_DIR$/docs" />
+        </element>
+        <element id="directory" name="out">
+          <element id="dir-copy" path="$PROJECT_DIR$/out" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

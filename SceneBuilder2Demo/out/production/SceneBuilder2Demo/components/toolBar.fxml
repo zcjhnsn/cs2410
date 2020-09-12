@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.layout.HBox?>
+
+<HBox alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="50.0" prefWidth="394.0" spacing="10.0" xmlns="http://javafx.com/javafx/9" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ToolBarController">
+   <children>
+      <Button fx:id="btn1" mnemonicParsing="false" onAction="#handler" text="Button" />
+      <RadioButton fx:id="radio1" mnemonicParsing="false" text="RadioButton" />
+      <RadioButton fx:id="radio2" mnemonicParsing="false" text="RadioButton" />
+      <RadioButton fx:id="radio3" mnemonicParsing="false" text="RadioButton" />
+   </children>
+</HBox>

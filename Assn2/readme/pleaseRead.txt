@@ -1,0 +1,11 @@
+PLEASE READ:
+
+When I compiled this project from Terminal, the only output folder that was created was simply titled "out." I even remade the project and only compiled from Terminal without compiling in the IDE first. I tried to figure out why this was and came across the following post on the JetBrains help forums: https://youtrack.jetbrains.com/issue/IDEA-175172
+
+From what I could tell, this happens due to an update they put out this summer. Let me know if that's the case or if I did something wrong.
+
+Thanks,
+
+Zac Johnson
+
+zacjohnson@aggiemail.usu.edu
